@@ -3,8 +3,8 @@
 # Maintainer: Truocolo <truocolo@aol.com>
 # Maintainer: Pellegrino Prevete (tallero) <pellegrinoprevete@gmail.com>
 
-_offline="true"
-_git="true"
+_offline="false"
+_git="false"
 _py="python"
 _py="python"
 _pyver="$( \
