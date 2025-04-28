@@ -1,4 +1,4 @@
-# `evm-contracts-abi-get-git`
+# `mysterious-shop-git`
 
 universal recipe for [user repo](../themartiancompany/ur).
 
