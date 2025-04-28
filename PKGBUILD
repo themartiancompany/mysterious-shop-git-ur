@@ -93,7 +93,7 @@ _tag="master"
 _tag_name="branch"
 _tarname="${pkgname}-${_tag}"
 [[ "${_offline}" == "true" ]] && \
-  _url="file://${HOME}/${_pkg}"
+  _url="file://${HOME}/redacted-assessment"
 if [[ "${_git}" == true ]]; then
   makedepends+=(
     "git"
